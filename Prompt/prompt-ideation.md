@@ -1,6 +1,6 @@
-Donnez idée personnalisé à ce pkg_gestion_utilisateurs qui existe dans le (Package 6 : Gestion des Utilisateurs) pour cette application (Soli-LMS) sans détail.
+Donnez idée personnalisé "un paragraphe" à ce pkg_gestion_utilisateurs qui existe dans le (Package 6 : Gestion des Utilisateurs) pour cette application (Soli-LMS) sans détail.
 
-description pkg_suivi_projet : ils permettent de Ajouter,modifier,voir,supprimer les utilisateur
+description pkg_gestion_utilisateurs : ils permettent de Ajouter,modifier,voir,supprimer les utilisateur
 
 Répondez en français niveau B1.
 

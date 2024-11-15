@@ -5,6 +5,6 @@ package: pkg_rh
 order: 101
 ---
 ## Définir problème 
-### Définition du problème pour le package **Gestion des Utilisateurs** (pkg_gestion_utilisateurs)
 
-Le package de gestion des utilisateurs dans **Soli-LMS** doit permettre une organisation et un suivi efficace des différents profils d'utilisateurs (formateurs, apprenants, et Responsable de Formation) pour garantir un bon fonctionnement de la plateforme. Les utilisateurs ont besoin d'un système simple pour créer, modifier, voir et supprimer des profils, tout en maintenant une gestion des rôles et permissions adaptée à chaque type d’utilisateur.
+### Définition du problème - Package 6 : Gestion des Utilisateurs
+Le pkg_gestion_utilisateurs dans Soli-LMS répond au besoin d’organiser efficacement les informations des utilisateurs (formateurs, apprenants, responsables de formation) et d'assurer une gestion fluide des rôles et des permissions. Il centralise les opérations liées à l'ajout, la modification, la consultation et la suppression des utilisateurs tout en respectant les spécificités de chaque profil.
